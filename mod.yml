@@ -1,0 +1,21 @@
+title: DO YOU LIKE MY CAR
+description: I've been to this space before
+assets:
+
+# Car HUD Icon
+- name: remastered\obj\P_LK100.a.us\-5.dds
+  multi: 
+  - name: remastered\obj\P_LK100.a.us\-5.dds
+  method: copy
+  source:
+  - name: DO_YOU_LIKE_MY_CAR.dds
+
+# Tunes
+- name: bgm\music186.win32.scd #Adventures in the Savannah
+  method: copy
+  source:
+  - name: Deja_Vu.scd
+- name: bgm\music187.win32.scd #Savannah Pride
+  method: copy
+  source:
+  - name: Deja_Vu.scd
